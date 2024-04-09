@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1712695835" />
+    <testcase name="test_all" classname="test_gl" file="/home/ignacio/zerotoasic/openlane/designs/watchdog/test/test_gl.py" lineno="16" time="0.054876089096069336" sim_time_ns="465.001" ratio_time="8473.654148092472" />
+  </testsuite>
+</testsuites>
